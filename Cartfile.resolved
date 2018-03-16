@@ -1,0 +1,3 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "Alamofire/AlamofireImage" "3.3.0"
+github "soheilbm/Firebase" "4.10.0"

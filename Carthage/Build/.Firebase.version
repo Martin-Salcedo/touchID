@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.10.0",
+  "iOS" : [
+    {
+      "name" : "Firebase",
+      "hash" : "4aeb2c730c8da03657572ebf8b9cc4a95d5a67c2d4e33f54be7d26b9fb1e1564"
+    }
+  ]
+}
